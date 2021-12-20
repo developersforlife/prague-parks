@@ -1,0 +1,5 @@
+export default {
+  endpoint: "https://api.golemio.cz/v2/gardens/",
+  token:
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtvcmFpYWRhdmlkQGdtYWlsLmNvbSIsImlkIjoxMDA5LCJuYW1lIjpudWxsLCJzdXJuYW1lIjpudWxsLCJpYXQiOjE2Mzk3ODY1MzUsImV4cCI6MTE2Mzk3ODY1MzUsImlzcyI6ImdvbGVtaW8iLCJqdGkiOiJhNzkzMTg3ZS1hOWY2LTQxMDMtOWZjOC00MWVkMmUzMWNmNjIifQ.xdBh5eFnXaeEdBl74bYj3pZTAV17iRegmu975WjtGp4",
+};
